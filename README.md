@@ -1,5 +1,6 @@
 # sistema_carrinho_compras
 - Cliente
+- 
 A tabela Clientearmazena informações sobre os clientes do sistema, como nome e e-mail. Cada cliente pode ter um ou mais carrinhos e pedidos.
 
 Chave primária: id (identificador único do cliente).
