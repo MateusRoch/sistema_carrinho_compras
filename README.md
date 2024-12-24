@@ -103,7 +103,7 @@ Username (leave blank to use ' '): Nome do adimistrador
 Email address: email do adimistrador 
 Password: senha 
 Password (again): repetir senha
-Na parte de colocar a senha, talvez não apareceça nada na tela, mas mesmo assim ainda ira funcionar, por exemplo se uma pessoa decidir usar a senha 12345 ela não ira aparecer na tela do terminal mas quando executar o codigo e ir para a pagina do adiministrador, no momento em que pedir a senha e o usuario digitar 12345 ela ira funcionar. Apos isso basta usar o comando 'python manage.py runserver' no terminal da usa ide onde logo apos isso ira aparecer um link parecido ou igual a este http://127.0.0.1:8000/ mas para ficar mais facil de usar a pagina do adiministrador use este http://127.0.0.1:8000/admin/.
+Na parte de colocar a senha, talvez não apareceça nada na tela, mas mesmo assim ainda ira funcionar, por exemplo se uma pessoa decidir usar a senha 12345 ela não ira aparecer na tela do terminal mas quando executar o codigo e ir para a pagina do adiministrador, no momento em que pedir a senha e o usuario digitar 12345 ela ira funcionar. Apos isso basta usar o comando 'python manage.py runserver' no terminal da usa ide onde logo apos isso ira aparecer um link parecido ou igual a este 'http://127.0.0.1:8000/' mas para ficar mais facil de usar a pagina do adiministrador use este 'http://127.0.0.1:8000/admin/'.
 Obrigado pelo atenção estarei disponivel para qualquer esclarecimento
 tel: (93) 99129-7109
 Email: oi17mateus@gmail.com
